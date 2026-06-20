@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Abrazo bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
+| **Get License** | [Music Rights & Licensing for Abrazo bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `043026af31fdb77a4d3dbf8b66247808115b40cac850249dff0f6b8a6ff92b2d` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

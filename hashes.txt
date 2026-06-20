@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo bajo la tormenta
+
+This log tracks the cryptographic history and versioning for the song **Abrazo bajo la tormenta** (abrazo-bajo-la-tormenta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T04:51:26.506128 | `v1` | `043026af31fdb77a4d3dbf8b66247808115b40cac850249dff0f6b8a6ff92b2d` | `56debd5973ed233bdf107ccdc6ff19fe28d18c950195ed756f30b9d99ba68c75` | `2026-06-21_abrazo-bajo-la-tormenta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
