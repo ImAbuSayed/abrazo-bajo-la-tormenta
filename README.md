@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Abrazo bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
+| **Get License** | [Get License For Abrazo bajo la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-bajo-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la tormenta encuentro tu calor
+> Tus labios son veneno que me da sabor
+> La noche es nuestra y el ritmo es mi motor
+> Dame esa luna que apaga mi dolor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
